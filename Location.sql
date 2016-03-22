@@ -1,1 +1,0 @@
-select location_values.latval, location_values.longval from location_values where location_values.distance between 0 and 400;
