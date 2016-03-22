@@ -1,1 +1,0 @@
-create table location_values(Date_Of_Stop STRING,Time_of_Stop STRING,GENDER STRING,RACE STRING,latVal double,longVal double, YEAR STRING,TIME STRING,distance double);
