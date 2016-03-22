@@ -1,1 +1,0 @@
-LOAD DATA INPATH '\HdiSamples\Traffic_Violations.txt' OVERWRITE INTO TABLE TrafficViolation;
